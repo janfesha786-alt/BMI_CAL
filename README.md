@@ -1,2 +1,2 @@
 # BMI_CAL
-calculate BMI on describing the weight and height.
+calculate BMI instantly and receive personalize health insights.
